@@ -8,5 +8,6 @@ namespace ProgectForGit
 {
     internal class World
     {
+        public World() { }
     }
 }
