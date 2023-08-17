@@ -5,7 +5,8 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            // Замена
+            // Замена 1
+            // Замена 2
         }
 
     }
