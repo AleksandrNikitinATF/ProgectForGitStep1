@@ -7,6 +7,6 @@ using System.Threading.Tasks;
 namespace ProgectForGit
 {
     internal class Stars
-    {// Hello
+    {// Hello world
     }
 }
