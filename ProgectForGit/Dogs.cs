@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProgectForGit
 {
-    internal class Users
-        // замена 25
-
+    internal class Dogs
     {
     }
 }
