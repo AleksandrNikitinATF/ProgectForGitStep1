@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProgectForGit
 {
-    internal class Peoples
+    internal class Peoples123
     {
     }
 }
